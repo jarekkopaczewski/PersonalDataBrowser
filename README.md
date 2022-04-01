@@ -7,6 +7,7 @@
 # About The Project
 
 ## General info
+Save personal data as txt and png. Data is stored as WeakHashMap.
 
 ## GUI
 
